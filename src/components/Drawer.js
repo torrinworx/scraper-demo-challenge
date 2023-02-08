@@ -44,9 +44,9 @@ export default function SwipeableTemporaryDrawer() {
 
   const routes = {
     Home: '/',
-    About: '/about/',
-    Account: '/account/',
-    Help: '/help/'
+    About: '/',
+    Account: '/',
+    Help: '/'
   };
 
   const list = (anchor) => (
