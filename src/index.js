@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 
 const port = process.env.PORT || 3000;
-app.listen(port, () => {
+App.listen(port, () => {
   console.log(`App listening on port ${port}`);
 });
 
