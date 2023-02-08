@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Nunito Sans Extra Light';
+    src: url("./static/fonts/Nunito_Sans/NunitoSans-ExtraLight.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: 'Nunito Sans Regular';
+    src: url("./static/fonts/Nunito_Sans/NunitoSans-Regular.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: 'Righteous Regular';
+    src: url("./static/fonts/Righteous/Righteous-Regular.ttf") format("truetype")
+}
